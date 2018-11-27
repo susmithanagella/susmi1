@@ -1,7 +1,6 @@
-   {
-      add c file
-     }
-    ........
-      {
-       c-language
-          }
+void main()
+{
+ printf("hello world");
+ printf("good day");
+}
+
