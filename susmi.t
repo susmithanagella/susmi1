@@ -1,7 +1,0 @@
-    {
-      hi susmi
-\       }
-    ........
-     {
-    hello susmi
-         }
