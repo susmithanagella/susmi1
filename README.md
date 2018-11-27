@@ -1,7 +1,4 @@
 # susmi1
-   {
-      ...........
-}
-{
-       susmitha hi
-      }
+this is a demo repo create by susmitha 
+for devops
+
